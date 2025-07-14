@@ -1,3 +1,0 @@
-PORT=3000              # Port number for Express server
-JWT_SECRET=mysecret    # Secret key used to sign and verify JWT tokens
-
